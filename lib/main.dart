@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:food_app/screens/Tabs.dart';
-
 import 'package:google_fonts/google_fonts.dart';
+
+import 'package:food_app/screens/Tabs.dart';
 
 final theme = ThemeData(
   useMaterial3: true,
